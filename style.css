@@ -3,13 +3,29 @@ body{
     background: rgb(44,111,245);
 background: linear-gradient(0deg, rgba(44,111,245,1) 0%, rgba(2,14,96,1) 32%, rgba(10,6,0,1) 99%);
 }
-h5{
-    color:white;
-    font-size:x-large;
+h1{
+    text-shadow: 0 5px 2px #000;
 }
+h2{
+    text-shadow: 0 5px 2px #000;
+}
+h3{
+    text-shadow: 0 5px 2px #000;
+}
+
+
+
+h5{
+  
+   
+p{
+    text-shadow: 0 2px 2px #000;
+}
+
 a{
     color:white;
     font-size: 30px;
+    text-shadow: 0 10px 10px rgb(197, 236, 23);
     
     
     
