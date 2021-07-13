@@ -48,9 +48,20 @@
   }
 
   .imageonefoot{
-    position: absolute;
+    position: relative;
+    width: 100%; 
+    size: 10%;
+    padding: 1px;
+    border-radius: 4px;
+    background: black;
+    box-shadow: black;
+  }
+
+  .imagetwofoot{
+    position: relative;
     width: 100%; 
     
+    size: 10%;
     padding: 1px;
     border-radius: 4px;
     background: black;
