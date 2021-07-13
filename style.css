@@ -1,9 +1,24 @@
 
+body{
+    background: rgb(44,111,245);
+background: linear-gradient(0deg, rgba(44,111,245,1) 0%, rgba(2,14,96,1) 32%, rgba(10,6,0,1) 99%);
+}
+h5{
+    color:white;
+    font-size:x-large;
+}
+a{
+    color:white;
+    font-size: 30px;
+    
+    
+    
 
+}
 .jumbotron{ 
     top: 100px; 
     margin:10px 30px 10px 30px;
-    border-radius:10px;
+    border-radius:0px;
       background: linear-gradient(
     rgba(0, 0, 250, 0.25), 
     rgba(125, 250, 250, 0.45)
@@ -25,21 +40,29 @@
   background: url(../UX_UI_HW_20/images/jumbotron3.png);
   width: 480px;
   height: 480px;
+  background-color: black;
 }
  
 .card-body2{
     background: url(../UX_UI_HW_20/images/thecapt.png);
     width: 960px;
     height: 480px;
+    background-color: black;
   }
   .card-body3{
     background: url(../UX_UI_HW_20/images/smaller.png);
     width: 960px;
     height: 630px;
+    background-color: black;
   }
   
   .nav-link{
     color: white;
+}
+.card-link{
+    position: absolute;
+    bottom: 4rem;
+    left: 100px;
 }
   .lead{
     font-family:raleway;
@@ -67,3 +90,4 @@
     background: black;
     box-shadow: black;
   }
+  
