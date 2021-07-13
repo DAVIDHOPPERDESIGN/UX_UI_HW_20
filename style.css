@@ -2,7 +2,7 @@
 
 .jumbotron{ 
     top: 100px; 
-    margin:100px 30px 100px 30px;
+    margin:10px 30px 10px 30px;
     border-radius:10px;
       background: linear-gradient(
     rgba(0, 0, 250, 0.25), 
@@ -45,4 +45,14 @@
     font-family:raleway;
     font-weight:1000;
     margin-top:50px;
+  }
+
+  .imageonefoot{
+    position: absolute;
+    width: 100%; 
+    
+    padding: 1px;
+    border-radius: 4px;
+    background: black;
+    box-shadow: black;
   }
