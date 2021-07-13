@@ -16,7 +16,10 @@ h3{
 
 
 h5{
-  
+    color:white;
+    font-size:x-large;
+    text-shadow: 0 5px 2px #000;
+}
    
 p{
     text-shadow: 0 2px 2px #000;
@@ -26,11 +29,13 @@ a{
     color:white;
     font-size: 30px;
     text-shadow: 0 10px 10px rgb(197, 236, 23);
-    
-    
-    
+  }
+  a:hover{
+    color: rgb(247, 206, 247);
+   
+  }
 
-}
+
 .jumbotron{ 
     top: 100px; 
     margin:10px 30px 10px 30px;
